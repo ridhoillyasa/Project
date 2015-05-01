@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d44ae09cfb2244240abf5b7060c059cd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - idle: {fileID: 7400004, guid: cbc6870d9837149378aac6023985253b, type: 3}
+  - walk: {fileID: 7400026, guid: cbc6870d9837149378aac6023985253b, type: 3}
+  - slash: {fileID: 7400002, guid: cbc6870d9837149378aac6023985253b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
